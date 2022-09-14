@@ -63,7 +63,7 @@ console.info('Tourism students - FOR Method',tourism)
 //     return student.course === "Tourism"
 // })
 
-//Cleaning the code
+// Using Arrow Function
 // const tourism2 = students.filter(student => student.course === "Tourism")
 
 //Arrow function outside the FLITER method
