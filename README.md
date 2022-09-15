@@ -1,6 +1,6 @@
 # Higher Order Functions
 
-> Basic knowledgement in functions is required
+> Basic knowledgement in functions is required!
 
 The basic concept of Higher Order Functions.
 
